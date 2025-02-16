@@ -1,0 +1,28 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../.vscode"
+		},
+		{
+			"path": "../array"
+		},
+		{
+			"path": "../emailvalidation"
+		},
+		{
+			"path": "../forLoop"
+		},
+		{
+			"path": "../javascript"
+		},
+		{
+			"path": "../stringMethod"
+		},
+		{
+			"path": "../swtich"
+		}
+	]
+}
