@@ -28,3 +28,8 @@ console.log(teams);
 //removing an element from the end of an array
 teams.pop();
 console.log(teams);
+//loop over an array
+const Student = ['simran', 'rahul', 'rohit', 'mohit'];
+for (let i = 0; i < Student.length; i++) {
+    console.log(`Roll no ${i + 1}: ${Student}`);
+}
