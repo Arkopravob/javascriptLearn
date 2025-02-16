@@ -35,25 +35,25 @@ for (let i = 0; i < Student.length; i++) {
 }
 //for of loop
 // duplicate of an array
-let arr = [4, 2, 34, 4, 1, 12, 1, 4];
+// let arr = [4, 2, 34, 4, 1, 12, 1, 4];
 
-function findDuplicate(arr) {
-    let dup = [];
+// function findDuplicate(arr) {
+//     let dup = [];
 
-    for (let i = 0; i < arr.length; i++) {
-        for (let j = i + 1; j < arr.length; j++) {
-            if (arr[i] === arr[j]) {
+//     for (let i = 0; i < arr.length; i++) {
+//         for (let j = i + 1; j < arr.length; j++) {
+//             if (arr[i] === arr[j]) {
 
-                if (dup.indexOf(arr[i]) === -1) {
-                    dup.push(arr[i]);
-                }
-                break;
-            }
-        }
-    }
+//                 if (dup.indexOf(arr[i]) === -1) {
+//                     dup.push(arr[i]);
+//                 }
+//                 break;
+//             }
+//         }
+//     }
 
-    return dup;
-}
-console.log(findDuplicate(arr));
-console.log(findDuplicate([4, 56, 54, 3, 56, 36, 54]));
+//     return dup;
+// }
+// console.log(findDuplicate(arr));
+// console.log(findDuplicate([4, 56, 54, 3, 56, 36, 54]));
 
