@@ -21,3 +21,12 @@ function sum(...numbers) {
     return total;
 }
 const result = console.log(sum(1, 2, 3, 4, 5, 6, 7, 8, 9, 10));
+
+//spread operator
+//spred ops expanding or copying the elements of an array
+const newBatch = [...mayBatch];
+console.log(newBatch);
+
+mayBatch.push('newStudent');
+console.log(mayBatch);
+console.log(newBatch);
