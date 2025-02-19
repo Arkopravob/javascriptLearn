@@ -12,5 +12,5 @@ if (req == "list") {
         console.log(task);
     }
 } else if (req == "add") {
-    let task = prompt("please eneter ")
+    let task = prompt("please eneter ");
 }
