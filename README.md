@@ -6,8 +6,6 @@ Introduction
 1.Getting started
 
 ## Getting Started
-git clone https://github.com/Arkopravob/javascriptLearn.git
-
 
 Basic Concepts
 
@@ -30,7 +28,9 @@ To get started with this repository, follow these steps:
 Clone the Repository:
 
 bash
-git clone https://github.com/your-username/javascript-learning.git
+git clone https://github.com/Arkopravob/javascriptLearn.git
+
+
 Navigate to the Repository:
 
 bash
