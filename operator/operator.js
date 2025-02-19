@@ -20,3 +20,23 @@ console.log(`decrement ops:  ${y}`);
 
 //exponent ops
 console.log(`exponent : ${num2 ** 2}`);
+
+//*****operation***** */
+
+let value = 2;
+let negV = -value;
+console.log(negV);
+
+let str1 = "hello";
+let str2 = " arko";
+let str3 = str1 + str2;
+console.log(str3);
+
+console.log("1" + 2);
+console.log(1 + "2");
+console.log(1 + 2 + "2");
+console.log(3 + 4 * 5 % 3);
+//triky convo
+console.log(+true);
+console.log(-false);
+
