@@ -33,6 +33,22 @@ const Student = ['simran', 'rahul', 'rohit', 'mohit'];
 for (let i = 0; i < Student.length; i++) {
     console.log(`Roll no ${i + 1}: ${Student}`);
 }
+
+//shift an array uses  Remove the first element from the array.
+
+const fruit = ['banana', 'mango', 'litchi'];
+fruit.shift();
+console.log(fruit);
+
+//splice in an array ->Add or remove elements at a specific index
+const teams1 = ['kkr', 'rcb', 'mi', 'dc'];
+// teams1.splice(2, 3);
+
+// console.log(teams1);
+teams1.splice(3, 0, 'csk');
+console.log(teams1);
+
+//slice
 //for of loop
 // duplicate of an array
 // let arr = [4, 2, 34, 4, 1, 12, 1, 4];
