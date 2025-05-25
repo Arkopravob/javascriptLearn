@@ -73,3 +73,8 @@ console.log(teams1);
 // console.log(findDuplicate(arr));
 // console.log(findDuplicate([4, 56, 54, 3, 56, 36, 54]));
 
+
+const fruits = ["mango", "banana", "apple", "berry"]
+console.log(fruits);
+
+
