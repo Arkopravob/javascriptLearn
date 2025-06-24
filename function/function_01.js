@@ -9,3 +9,4 @@ function findSum(n) {
 // console.log(ans);
 let ans2 = findSum(200);
 console.log(ans2);
+
