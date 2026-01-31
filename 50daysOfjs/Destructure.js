@@ -3,6 +3,8 @@ const books = { bName: "RICH DAD POOR DAD", price: 300, author: "jack" };
 //object destructure method
 const { bName, price, author } = books;
 console.log(bName);
+console.log(author);
+
 
 //function destructure method
 

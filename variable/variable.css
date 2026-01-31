@@ -1,0 +1,23 @@
+body {
+    margin: auto;
+    text-align: center;
+    box-sizing: border-box;
+
+
+}
+
+h1 {
+    box-sizing: border-box;
+    padding: 30px;
+    height: 95px;
+    width: 390px;
+    background-color: chocolate;
+    text-align: center;
+    margin-left: 40%;
+}
+
+#head3 {
+    background-color: black;
+    height: 50px;
+    padding-top: 30px;
+}
