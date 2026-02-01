@@ -33,3 +33,16 @@ console.log(newMsg);
 //return a part of the orginal string as a new string
 let strr = "loveCoding";
 console.log(strr.slice(0, 4));
+
+
+//substring
+const browserType ="Mozilla";
+
+if(browserType.includes("zilla")){
+    console.log("its contain zilla");
+}
+else{
+    console.log("Its not similar with mozilla");
+}
+
+//
